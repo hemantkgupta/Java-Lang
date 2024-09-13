@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b2fbc83-5135-483a-a9de-e659e4c867ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Lang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambdas/Lambdas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambdas/src/Composition_Of_Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambdas/src/Higher_Order_Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambdas/src/Lambda_Custom_Comparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambdas/src/Lambda_First.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambdas/src/Method_References.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambdas/src/Predicate_And_Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams/Streams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams/src/Creating_Streams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams/src/Filter_Map_Collect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams/src/Filter_Map_Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams/src/Filter_Map_Sorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams/src/Intermediate_Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams/src/Parallel_Streams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams/src/Practical_Examples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams/src/Primitive_Type_Streams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams/src/Reduce_Java_Stream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams/src/Short_Circuiting_Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams/src/Terminal_Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams/src/Useful_Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cp/cp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cp/src/BufferedReader_CP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cp/src/BufferedWriter_CP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2m0Oe9zCeRO0dQwiSWmgdhiEMYB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.BufferedReader_CP.executor": "Run",
+    "Application.BufferedWriter_CP.executor": "Run",
+    "Application.Creating_Streams.executor": "Run",
+    "Application.Filter_Map_Collect.executor": "Run",
+    "Application.Filter_Map_Print.executor": "Run",
+    "Application.Filter_Map_Sorted.executor": "Run",
+    "Application.Intermediate_Operations.executor": "Run",
+    "Application.Lambda_Custom_Comparator.executor": "Run",
+    "Application.Lambda_First.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Predicate_And_Function.executor": "Run",
+    "Application.Terminal_Operations.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/hemantkgupta/offline/java-work-all/Java-Lang/Lambdas/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Predicate_And_Function">
+    <configuration name="BufferedWriter_CP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BufferedWriter_CP" />
+      <module name="cp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Filter_Map_Sorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Filter_Map_Sorted" />
+      <module name="Streams" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lambda_Custom_Comparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lambda_Custom_Comparator" />
+      <module name="Lambdas" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lambda_First" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lambda_First" />
+      <module name="Lambdas" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Predicate_And_Function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Predicate_And_Function" />
+      <module name="Lambdas" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Predicate_And_Function" />
+        <item itemvalue="Application.Lambda_Custom_Comparator" />
+        <item itemvalue="Application.Lambda_First" />
+        <item itemvalue="Application.Filter_Map_Sorted" />
+        <item itemvalue="Application.BufferedWriter_CP" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-92e50af3" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b2fbc83-5135-483a-a9de-e659e4c867ef" name="Changes" comment="" />
+      <created>1726210120567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726210120567</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Streams/src/Filter_Map_Collect.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cp/src/BufferedReader_CP.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lambdas/src/Lambda_First.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
